@@ -34,6 +34,7 @@ python-for-devops/
 ├── day-09/
 ├── day-10/
 ├── projects/
+├── .env/
 └── tests/
 
 ⸻

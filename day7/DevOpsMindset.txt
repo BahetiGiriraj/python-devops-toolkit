@@ -1,0 +1,5 @@
+Write down:
+What is the problem?
+What input does it need?
+What output should it give?
+What steps are involved?
